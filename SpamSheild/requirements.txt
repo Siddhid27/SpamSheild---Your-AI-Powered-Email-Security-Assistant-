@@ -1,0 +1,6 @@
+streamlit
+pandas
+scikit-learn
+nltk
+imaplib2
+email

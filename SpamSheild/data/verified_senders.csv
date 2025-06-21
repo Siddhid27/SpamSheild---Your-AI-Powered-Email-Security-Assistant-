@@ -1,0 +1,20 @@
+name,email_domain
+Google,accounts.google.com
+Google Mail,no-reply@google.com
+Microsoft,no-reply@microsoft.com
+Microsoft Office,office365.microsoft.com
+Apple,appleid.apple.com
+Amazon,no-reply@amazon.in
+LinkedIn,notifications@linkedin.com
+GitHub,noreply@github.com
+PayPal,service@paypal.com
+Netflix,info@mailer.netflix.com
+Facebook,notification@facebookmail.com
+Instagram,no-reply@mail.instagram.com
+Twitter,notify@twitter.com
+Zoom,no-reply@zoom.us
+Cuvette,team@cuvette.tech
+Groww,daily.digest.groww.in
+HackerRank,no-reply@hackerrank.com
+Coursera,no-reply@coursera.org
+StackOverflow,team@stackoverflow.email
