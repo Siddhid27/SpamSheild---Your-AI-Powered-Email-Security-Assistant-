@@ -3,4 +3,5 @@ pandas
 scikit-learn
 nltk
 imaplib2
-email
+beautifulsoup4
+
